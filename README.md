@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="https://x.com/M2Dr3g0n" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/TyKoltDev" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/x/white" alt="X" height="36" width="36" style="background-color: #212121; border-radius: 12px; padding: 6px;">
   </a>
 </div>
